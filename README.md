@@ -1,2 +1,2 @@
 # Seguridad-en-Sistemas-Inform-ticos
-Repositorio que contiene todo el material realizado en las prácticas de la asignatura.
+Bienvenid@ al repositorio de prácticas de la asignatura Seguridad en Sistemas Informáticos de la ESII de Albacete.
